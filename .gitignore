@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+log/
+prod.txt
+*.pyc
+*.txt
+.env
+misc/
+.mypy_cache/
